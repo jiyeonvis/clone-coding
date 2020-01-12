@@ -1,0 +1,71 @@
+body {
+  background-color: pink;
+}
+
+.dashboard {
+  width:auto;
+  min-height:500px;
+  height:auto;
+  padding : 10px 10px 10px 10px;
+  margin-bottom:1rem;
+}
+
+.first, .second, .third, .fourth, .fifth {
+  margin-bottom : 1rem;
+}
+
+.first {
+  width: auto;
+  background-color: rgb(48, 61, 81);
+  text-align: center;
+  padding : 0.5rem 0;
+}
+.first-title {
+  display : flex;
+  justify-content: center;
+}
+
+.first-title p {
+  font-size : 2rem;
+  line-height : 4rem;
+  letter-spacing: 0.1rem;
+  display : inline-block;
+  margin : 0 0;
+  color : white;
+}
+.first-title-mini {
+  font-size : 1rem;
+  font-weight : 300;
+  letter-spacing : 0.5rem;
+  margin :0 0;
+  color: white;
+}
+.second {
+  width:auto;
+  height:100px;
+  background-color: red;
+}
+
+.third {
+  width:auto;
+  height: 50px;
+  background-color: blue;
+}
+
+.fourth {
+  width: auto;
+  height : 300px;
+  background-color: olive;
+}
+
+.fifth {
+  width : auto;
+  height : 30px;
+  background-color: red;
+}
+
+.sixth {
+  width: auto;
+  height : 30px;
+  background-color: black;
+}
